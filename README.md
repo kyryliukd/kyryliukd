@@ -6,7 +6,7 @@
 
 <h2>🎓 University Projects:</h2>
 
-- [Gesture Recognition System](https://github.com/DmytroKyryliuk2023/smart-glove-ml)
+- [Gesture Recognition Microservice](https://github.com/DmytroKyryliuk2023/smart-glove-ml)
 - [Graph Plotting Application](https://github.com/DmytroKyryliuk2023/Graph-Plotting-Application)
 - [Medical Center API](https://github.com/DmytroKyryliuk2023/medical-center-api)
 - [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
