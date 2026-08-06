@@ -2,25 +2,26 @@
 
 <h2>👨‍💻 GlobalLogic Projects:</h2>
 
-- [Text To Speech System](https://github.com/DmytroKyryliuk2023/text-to-speech)
+- [Ukrainian Text To Speech System](https://github.com/kyryliukd/text-to-speech)
+- [Denoising Diffusion Model for Audio Spectrograms](https://github.com/kyryliukd/denoising-diffusion-implicit-model)
 
 <h2>🎓 University Projects:</h2>
 
-- [Gesture Recognition Microservice](https://github.com/DmytroKyryliuk2023/smart-glove-ml)
-- [Graph Plotting Application](https://github.com/DmytroKyryliuk2023/Graph-Plotting-Application)
-- [Medical Center API](https://github.com/DmytroKyryliuk2023/medical-center-api)
-- [Data Structures and Algorithms](https://github.com/DmytroKyryliuk2023/dsa)
-- [Systems of Intelligent Data Analysis and Visualization](https://github.com/DmytroKyryliuk2023/Systems-of-Intelligent-Data-Analysis-and-Visualization)
-- [Mathematics and Statistics](https://github.com/DmytroKyryliuk2023/Mathematics-and-Statistics)
+- [Gesture Recognition Microservice](https://github.com/kyryliukd/smart-glove-ml)
+- [Graph Plotting Application](https://github.com/kyryliukd/Graph-Plotting-Application)
+- [Medical Center API](https://github.com/kyryliukd/medical-center-api)
+- [Data Structures and Algorithms](https://github.com/kyryliukd/dsa)
+- [Systems of Intelligent Data Analysis and Visualization](https://github.com/kyryliukd/Systems-of-Intelligent-Data-Analysis-and-Visualization)
+- [Mathematics and Statistics](https://github.com/kyryliukd/Mathematics-and-Statistics)
 
 <h2>👨‍💻 Extra Data Science Projects:</h2>
 
-- [Machine Learning Models from Scratch](https://github.com/DmytroKyryliuk2023/ml-models-from-scratch)
-- [Machine Learning Projects](https://github.com/DmytroKyryliuk2023/ml-projects)
+- [Machine Learning Models from Scratch](https://github.com/kyryliukd/ml-models-from-scratch)
+- [Machine Learning Projects](https://github.com/kyryliukd/ml-projects)
 
 <h2>📄 Certifications:</h2>
 
-- [My certificates](https://github.com/DmytroKyryliuk2023/certifications)
+- [My certificates](https://github.com/kyryliukd/certifications)
 
 <h2>🤳 Connect with me:</h2>
 
