@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dmytro!</h1>
+<h1>Hi, I'm Dmytro.</h1>
 
 <h2>👨‍💻 GlobalLogic Projects:</h2>
 
