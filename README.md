@@ -5,6 +5,7 @@
 - [Ukrainian Text To Speech System](https://github.com/kyryliukd/text-to-speech)
 - [Denoising Diffusion Model for Audio Spectrograms](https://github.com/kyryliukd/denoising-diffusion-implicit-model)
 - [Musical Instrument Separator](https://github.com/kyryliukd/musical-instruments-separator)
+- [Dify Workflows](https://github.com/kyryliukd/dify-workflows)
 
 <h2>🎓 University Projects:</h2>
 
